@@ -8,8 +8,8 @@
     "start": "nodemon --exec babel-node src/index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "klequis",
+  "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.12.17",
     "@babel/core": "^7.12.17",
